@@ -1,5 +1,5 @@
 # new profile
-## My name is Francimar Alexandre, Student in the 7th period of the information systems course.
+
 ### ⚙️ GitHub Analytics
 
 <table>
