@@ -58,7 +58,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/FrancimarAlexandre/FrancimarAlexandre/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
