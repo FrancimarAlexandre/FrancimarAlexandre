@@ -4,7 +4,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif"  />
+<img align="right" height="150" src="https://camo.githubusercontent.com/2e35a1cf31fd30833f228b1db2f56ff2ed89b1a2d687d48fd32cd04a3725e0fa/68747470733a2f2f692e696d6775722e636f6d2f75685a644839432e676966"  />
 
 ###
 
